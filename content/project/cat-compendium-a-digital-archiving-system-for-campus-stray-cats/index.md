@@ -1,7 +1,7 @@
 ---
 title: "Cat Compendium: A Digital Archiving System for Campus Stray Cats"
 subtitle: ""
-date: 2023-10-05T18:13:42.869Z
+date: 2021-07-08T18:13:42.869Z
 summary: A Digital Archive for Campus Strays" is an innovative platform
   celebrating campus stray cats, digitally profiling each feline's unique traits
   and habits. With over 1,500 active users, it promotes awareness, compassion,
