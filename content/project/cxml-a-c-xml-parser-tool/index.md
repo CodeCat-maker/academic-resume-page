@@ -12,7 +12,7 @@ featured: false
 links:
   - url: https://github.com/CodeCat-maker/cxml
     name: github
-    icon: github
+    icon: ""
 image:
   filename: 截屏2023-10-05-17.29.49.png
   focal_point: Smart
