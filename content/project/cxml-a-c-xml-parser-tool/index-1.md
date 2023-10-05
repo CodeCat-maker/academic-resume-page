@@ -16,7 +16,7 @@ links:
     name: github
     icon: ""
 image:
-  filename: http://cos.mineseb.cn/markdown/111.png
+  filename: 111.png
   focal_point: Smart
   preview_only: false
 ---
