@@ -2,7 +2,7 @@
 title: Optimization of Contract Management System for Enterprises under
   Intelligent Mode
 publication_types:
-  - "0"
+  - "7"
 authors:
   - Zepeng Wang
 publication: Enterprise Science and Development
