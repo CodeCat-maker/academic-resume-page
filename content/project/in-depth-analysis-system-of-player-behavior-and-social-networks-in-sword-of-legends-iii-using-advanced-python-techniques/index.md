@@ -17,7 +17,7 @@ external_link: ""
 url_slides: ""
 links: []
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
   filename: 20180117090957304.jpg
 url_code: ""
