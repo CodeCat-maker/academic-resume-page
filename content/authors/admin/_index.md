@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MCS in Computer Science
+    - course: MSC in Computer Science
       institution: University of Glasgow
       year: 2023
     - course: BBA in Information Systems and Information Management
