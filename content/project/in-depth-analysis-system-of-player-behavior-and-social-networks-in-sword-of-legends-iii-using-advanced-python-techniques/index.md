@@ -2,15 +2,10 @@
 slides: example
 url_pdf: ""
 date: 2023-10-05T11:15:39.481Z
-summary: Between 2019 and 2021, I single-handedly developed an in-depth analysis
-  system tailored for players of "Sword of Legends III." This system, built on a
-  Python stack, leverages advanced data analytics libraries like Pandas for data
-  manipulation and NumPy for numerical computations. With the integration of
-  machine learning methodologies using Scikit-learn and TensorFlow, I sought to
-  dissect both in-game behavior and player social interactions. To enhance the
-  user experience, a complementary WeChat official account, WeChat mini-program,
-  and H5 webpage were also developed. Post-launch, the platform swiftly drew
-  over 6,000 users, testifying to its value and applicability.
+summary: From 2019 to 2021, I independently crafted an advanced Python-based
+  analysis system for 'Sword of Legends III' players, integrating machine
+  learning and deep data analytics, complemented by WeChat and H5 interfaces,
+  engaging over 6,000 users.
 url_video: ""
 title: In-depth Analysis System of Player Behavior and Social Networks in "Sword
   of Legends III" Using Advanced Python Techniques
@@ -24,6 +19,7 @@ links: []
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
+  filename: 20180117090957304.jpg
 url_code: ""
 ---
 
