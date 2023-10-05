@@ -5,7 +5,7 @@ publication_types:
   - "7"
 authors:
   - admin
-publication: Enterprise Science and Development
+publication: in "Enterprise Science and Development"
 abstract: For enterprises, establishing a fully automated contract management
   system can enhance the overall efficiency of contract management and the level
   of intelligent management. It significantly improves the accuracy of contract
