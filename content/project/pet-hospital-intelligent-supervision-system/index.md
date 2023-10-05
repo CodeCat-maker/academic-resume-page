@@ -10,7 +10,7 @@ summary: Utilizing Vue3, WeChat Mini-Program, and Django frameworks, this
 draft: false
 featured: false
 image:
-  filename: wechatimg523.jpg
+  filename: wechatimg523-1-.jpg
   focal_point: Smart
   preview_only: false
 ---
