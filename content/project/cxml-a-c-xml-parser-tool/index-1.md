@@ -9,6 +9,8 @@ summary: CXML is more than just a project; it's a testament to an unyielding
   glowing reception of 149 stars on GitHub.
 draft: false
 featured: false
+categories:
+  - Software
 links:
   - url: https://github.com/CodeCat-maker/cxml
     name: github
