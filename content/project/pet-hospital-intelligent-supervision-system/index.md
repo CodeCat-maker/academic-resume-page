@@ -11,6 +11,8 @@ summary: In collaboration with Tianjin's Jinminjia Company, the Pet Hospital
   technology with practical healthcare solutions.
 draft: false
 featured: false
+categories:
+  - Software
 image:
   filename: wechatimg523-1-.jpg
   focal_point: Smart
