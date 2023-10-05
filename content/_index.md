@@ -33,41 +33,46 @@ sections:
   #         description: 10%
   #         icon: camera-retro
   #         icon_pack: fas
-  # - block: experience
-  #   content:
-  #     title: Experience
-  #     # Date format for experience
-  #     #   Refer to https://wowchemy.com/docs/customization/#date-format
-  #     date_format: Jan 2006
-  #     # Experiences.
-  #     #   Add/remove as many `experience` items below as you like.
-  #     #   Required fields are `title`, `company`, and `date_start`.
-  #     #   Leave `date_end` empty if it's your current employer.
-  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  #     items:
-  #       - title: CEO
-  #         company: GenCoin
-  #         company_url: ""
-  #         company_logo: org-gc
-  #         location: California
-  #         date_start: "2021-01-01"
-  #         date_end: ""
-  #         description: |2-
-  #             Responsibilities include:
-
-  #             * Analysing
-  #             * Modelling
-  #             * Deploying
-  #       - title: Professor of Semiconductor Physics
-  #         company: University X
-  #         company_url: ""
-  #         company_logo: org-x
-  #         location: California
-  #         date_start: "2016-01-01"
-  #         date_end: "2020-12-31"
-  #         description: Taught electronic engineering and researched semiconductor physics.
-  #   design:
-  #     columns: "2"
+  - block: experience
+    content:
+      title: Experience
+      # Date format for experience
+      #   Refer to https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Product Manager Intern
+          company: Tianjin Jinminjia Technology Co., Ltd.
+          location: China
+          date_start: "2023-03-01"
+          date_end: "2023-08-01"
+          description: |2-
+              I serve as a Product Management Associate within a dynamic tech environment. My primary role involves spearheading innovative strategies and enhancements for our company's WeChat Mini Programs and web applications. I act as a pivotal liaison between the front-end and back-end engineering teams, ensuring seamless collaboration and alignment of our tech goals. Moreover, I play a crucial role in guiding our product's developmental trajectory, consistently providing valuable insights and constructive feedback during critical development phases.
+        - title: Real-time Communication System Development Intern
+          company: Tianjin Null Pointer Technology Co., Ltd.
+          location: China
+          date_start: "2022-11-01"
+          date_end: "2023-03-31"
+          description: |2-
+            - Collaborate in the design and development of real-time communication modules using Java and Vue.js.
+            - Leverage Java's multithreading capabilities and Vue's reactive data-binding features for optimal user experience.
+            - Engage in MVC architecture optimization, RESTful API integration, and WebSocket implementations for seamless data transfer.
+            - Participate in code reviews, ensuring modular and maintainable code adhering to best practices.
+        - title: User Preference Analysis Intern
+          company: Tianjin Ladder Technology Co., Ltd.
+          location: China
+          date_start: "2022-01-01"
+          date_end: "2022-03-31"
+          description: |2-
+            - Python: Numpy、Pandas
+            - Data Visualization: Matplotlib
+            - Machine Learning: Scikit-learn and TensorFlow.
+    design:
+      columns: "4"
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -107,33 +112,33 @@ sections:
           url: https://dasai.lanqiao.cn/
     design:
       columns: "2"
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ""
-      text: ""
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
-      columns: "2"
+  # - block: collection
+  #   id: posts
+  #   content:
+  #     title: Recent Posts
+  #     subtitle: ""
+  #     text: ""
+  #     # Choose how many pages you would like to display (0 = all pages)
+  #     count: 5
+  #     # Filter on criteria
+  #     filters:
+  #       folders:
+  #         - post
+  #       author: ""
+  #       category: ""
+  #       tag: ""
+  #       exclude_featured: false
+  #       exclude_future: false
+  #       exclude_past: false
+  #       publication_type: ""
+  #     # Choose how many pages you would like to offset by
+  #     offset: 0
+  #     # Page order: descending (desc) or ascending (asc) date.
+  #     order: desc
+  #   design:
+  #     # Choose a layout view
+  #     view: compact
+  #     columns: "2"
   - block: portfolio
     id: projects
     content:
