@@ -1,5 +1,5 @@
 ---
-slides: example
+slides:
 url_pdf: ""
 date: 2023-10-05T11:15:39.481Z
 summary: From 2019 to 2021, I independently crafted an advanced Python-based
@@ -23,7 +23,6 @@ image:
 url_code: ""
 ---
 
-
 **Project Summary**: Between 2019 and 2021, I single-handedly developed an in-depth analysis system tailored for players of "Sword of Legends III." This system, built on a Python stack, leverages advanced data analytics libraries like Pandas for data manipulation and NumPy for numerical computations. With the integration of machine learning methodologies using Scikit-learn and TensorFlow, I sought to dissect both in-game behavior and player social interactions. To enhance the user experience, a complementary WeChat official account, WeChat mini-program, and H5 webpage were also developed. Post-launch, the platform swiftly drew over 6,000 users, testifying to its value and applicability.
 
 **Key Features and Highlights**:
@@ -36,6 +35,6 @@ url_code: ""
 
 **Achievements and Impact**:
 
-* The toolset, rooted in advanced Python techniques, serves as a holistic analytical solution for "Sword of Legends III" enthusiasts, from developers to players.
-* Through the web integrations, I've achieved substantial user engagement, with over 6,000 active users, marking the project's success and wide acceptance.
-* The solution pioneers a sophisticated approach to understanding player behavior and social patterns, potentially reshaping game design strategies in the future.
+- The toolset, rooted in advanced Python techniques, serves as a holistic analytical solution for "Sword of Legends III" enthusiasts, from developers to players.
+- Through the web integrations, I've achieved substantial user engagement, with over 6,000 active users, marking the project's success and wide acceptance.
+- The solution pioneers a sophisticated approach to understanding player behavior and social patterns, potentially reshaping game design strategies in the future.
