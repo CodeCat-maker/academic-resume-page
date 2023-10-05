@@ -1,12 +1,14 @@
 ---
 title: Pet Hospital Intelligent Supervision System
 date: 2023-10-05T16:13:44.203Z
-summary: Utilizing Vue3, WeChat Mini-Program, and Django frameworks, this
-  project intricately develops a Pet Hospital Management System to enhance
-  service efficiency, foster transparency, and promote healthy competition
-  within the burgeoning pet healthcare industry by offering streamlined
-  appointment scheduling, live monitoring, and robust feedback mechanisms for
-  over thousands of pet owners.
+summary: In collaboration with Tianjin's Jinminjia Company, the Pet Hospital
+  Management System—developed using Vue3, WeChat Mini-Program, and Django
+  frameworks—has been pilot tested, providing enhanced service efficiency,
+  fostering transparency, and promoting healthy competition in the pet
+  healthcare industry. This real-world implementation offers streamlined
+  appointment scheduling, live monitoring, and comprehensive feedback mechanisms
+  for a vast community of pet owners, marking a significant stride in bridging
+  technology with practical healthcare solutions.
 draft: false
 featured: false
 image:
