@@ -74,5 +74,6 @@ email: ""
 highlight_name: true
 ---
 
-Wang Zepeng is a postgraduate student in Computer Science at the University of Glasgow. His research primarily focuses on network attacks, data encryption capture, and artificial intelligence technologies. During his undergraduate studies, he was an integral member of the Computer Science Department's Network Security Information Office, dedicated to addressing on-campus network attacks and unauthorized intrusions. Additionally, he excels in big data capture and analysis. His multifaceted skills have established him as a considerable authority in the field of network security.
+Zepeng Wang, currently diving deep into the realms of computer science at the University of Glasgow, holds a fervent passion for artificial intelligence and its boundless possibilities.
+While his foundational work in network security remains a testament to his expertise, it's the allure of AI, especially in understanding intricate behavioral patterns, that truly captures his imagination.
 {style="text-align: justify;"}
