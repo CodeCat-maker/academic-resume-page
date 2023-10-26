@@ -22,7 +22,7 @@ organizations:
     url: https://www.gla.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cyber securit, game player data analysis.
+# bio: My research interests include cyber securit, game player data analysis.
 
 # Interests to show in About widget
 interests:
