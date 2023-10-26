@@ -26,9 +26,9 @@ bio: My research interests include cyber securit, game player data analysis.
 
 # Interests to show in About widget
 interests:
-  - Network Attacks
-  - Data Encryption Capture
-  - Artificial Intelligence
+  - Computer Vision for Behaviour Understanding
+  - Multimodal Representation Learning
+  - Digital Health and AI-driven Network Security
 
 # Education to show in About widget
 education:
