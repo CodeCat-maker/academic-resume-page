@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Computer Science
+role: Master of Computing Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -33,7 +33,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MSC in Computer Science
+    - course: MSC in Computing Science
       institution: University of Glasgow
       year: 2023
     - course: BBA in Information Systems and Information Management
@@ -74,6 +74,6 @@ email: ""
 highlight_name: true
 ---
 
-Zepeng Wang, currently diving deep into the realms of computer science at the University of Glasgow, holds a fervent passion for artificial intelligence and its boundless possibilities.
+Zepeng Wang, currently diving deep into the realms of computing science at the University of Glasgow, holds a fervent passion for artificial intelligence and its boundless possibilities.
 While his foundational work in network security remains a testament to his expertise, it's the allure of AI, especially in understanding intricate behavioral patterns, that truly captures his imagination.
 {style="text-align: justify;"}
